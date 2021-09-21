@@ -1,0 +1,15 @@
+{
+  "name": "smart-light-comms",
+  "version": "1.0.0",
+  "description": "Smart Light Communication for SIT314 Project (final)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Tubman",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.2.8",
+    "serialport": "^9.2.1"
+  }
+}
